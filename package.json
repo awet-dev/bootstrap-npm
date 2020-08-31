@@ -1,0 +1,23 @@
+{
+  "name": "bootstrap-npm",
+  "version": "1.0.0",
+  "description": "use bootstrap for my project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "live-server"
+  },
+  "keywords": [
+    "bootstrap"
+  ],
+  "author": "Awet",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^4.5.2",
+    "jquery": "^3.0.0",
+    "node-sass": "^4.14.1"
+  },
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  }
+}
